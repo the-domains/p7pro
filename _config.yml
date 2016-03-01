@@ -1,20 +1,4 @@
-name: P7pro
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75386
-title: P7 pro Contract Logistics
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#E0FBFC'
@@ -24,6 +8,11 @@ color:
     - '#253237'
   brandStrength: 0
   lightness: 1
-  saturation: 1
   rhythmicContrast: 1
+  saturation: 1
+cta: {}
+layout_spectrum: 1
+name: P7pro
+opengraph: {}
 purpose: []
+typography_spectrum: 0.75386
